@@ -1,0 +1,55 @@
+html{
+    background-color: #000000 ;
+  color:white;
+}
+/* body{
+    display:flex;
+    align-items: center;
+    margin:30px;
+} */
+
+/* #searchInput{
+    margin:0px;
+    padding:0px;
+    display: flex;
+    align-items: ;
+} */
+
+#searchInput{
+    width:210px;
+    height: 23px;
+    background-color:#deeaee;
+    font-size: 20px;;
+    margin-top:5px;
+    border-radius: 10px;
+    border-color: whitesmoke;
+
+}
+
+#searchButton{
+    width:120px;    
+    height: 30px;
+    cursor:pointer;
+    font-size:20px;
+    background-color:#deeaee;
+    margin-top:5px;
+    border-radius: 10px;
+    border-color: whitesmoke;
+
+
+}
+
+
+#newHeroButton{
+
+    width:120px;    
+    height: 30px;
+    cursor:pointer;
+    font-size:20px;
+    background-color:#deeaee;
+    box-shadow: 5px 2px 12px rgb(126, 255, 75);
+    border-radius: 10px;
+    border-color: whitesmoke;
+
+    
+}
